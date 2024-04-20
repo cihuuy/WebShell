@@ -3,7 +3,7 @@ session_start();
 
 error_reporting(0);
 
-$password = "pi3.1415926";		 //Change this to your password ;)
+$password = "137";		 //Change this to your password ;)
 
 $version = "0.7B";
 
